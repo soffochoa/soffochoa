@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: soffochoa
           outputs: |-
-            dist/github-contribution-grid-snake.svg?color_snake=%231c3469&color_dots=%23eaf3fb,%23cfe5f7,%23a9d2f0,%237bb8e8,%231c3469&color_background=%23ffffff
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2387CEEB&color_dots=%230d1117,%230a2540,%23123a63,%231c5c91,%2387CEEB&color_background=%230d1117
+            dist/github-contribution-grid-snake.svg?color_snake=%231c3469&color_dots=%23dde7f0,%23cfe5f7,%23a9d2f0,%237bb8e8,%231c3469&color_background=%23ffffff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2387CEEB&color_dots=%23202938,%230a2540,%23123a63,%231c5c91,%2387CEEB&color_background=%230d1117
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
