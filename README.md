@@ -26,8 +26,6 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=soffochoa&color=87CEEB&style=flat&label=Visitas+al+perfil)
-
 <sub>Gracias por visitar mi perfil</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=80&section=footer" width="100%" />

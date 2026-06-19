@@ -11,26 +11,14 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
-        id: cat
+      - name: generate snake
+        uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: soffochoa
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: actions/checkout@v4
-        with:
-          ref: output
-
-      - run: |
-          mkdir -p dist
-          cp -r dist/* . 2>/dev/null || true
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v4
