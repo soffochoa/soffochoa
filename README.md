@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**soffochoa/soffochoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://usagif.com/wp-content/uploads/gify/cinnamoroll-playing-bouncing-on-cloud-usagif.gif" width="180" />
 
-Here are some ideas to get you started:
+# Hola, soy Sofia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estudiante de Ciencias de la Computación
+
+</div>
+
+---
+
+### Sobre mí
+
+- Estudio **Ciencias de la Computación**.
+- Diplomado en **Introducción Analítica a las Ciencias de Datos**.
+- Participé en el **Macroentrenamiento en Inteligencia Artificial (MeIA) 2025**.
+- Actualmente curso el diplomado de **Manejo de Bases de Datos SQL y NoSQL en un Entorno de Nube**.
+- Actualmente curso el diplomado de **Administración de Servidores GNU/Linux**.
+
+---
+
+### Intereses y áreas en las que estoy creciendo
+
+`Ciencia de Datos` `Inteligencia Artificial` `Bases de Datos (SQL & NoSQL)` `Cómputo en la Nube` `Administración de Sistemas GNU/Linux`
+
+---
+
+### Contacto
+
+**soffochoa@ciencias.unam.mx**
+
+---
+
+<div align="center">
+<sub>Gracias por visitar mi perfil</sub>
+</div>
