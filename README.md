@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://usagif.com/wp-content/uploads/gify/cinnamoroll-playing-bouncing-on-cloud-usagif.gif" width="180" />
 
-# Hola, soy Sofía
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1c3469&size=30&width=900&lines=Hola!+Soy+Sofía;Estudiante+de+Ciencias+de+la+Computación)](https://git.io/typing-svg)
 
@@ -20,7 +19,6 @@
 
 ---
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soffochoa/soffochoa/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soffochoa/soffochoa/output/github-contribution-grid-snake.svg" />
@@ -32,8 +30,6 @@
 ### Contacto
 **soffochoa@ciencias.unam.mx**
 
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="80" align="right" />
-
 ---
 
 <div align="center">
@@ -41,5 +37,7 @@
 <sub>Gracias por visitar mi perfil</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=80&section=footer" width="100%" />
+
+<img src="https://media.tenor.com/RYqWPaOFlmgAAAAC/cute-cats.gif" width="150" />
 
 </div>
