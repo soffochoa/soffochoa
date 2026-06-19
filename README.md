@@ -39,6 +39,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=80&section=footer" width="100%" />
 
-<img src="https://media.tenor.com/RYqWPaOFlmgAAAAC/cute-cats.gif" width="150" />
 
 </div>
