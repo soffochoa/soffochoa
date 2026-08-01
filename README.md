@@ -13,9 +13,10 @@
 ### Sobre mí:
 - Estudio **Ciencias de la Computación**.
 - Diplomado en **Introducción Analítica a las Ciencias de Datos**.
+- Diplomado de **Administración de Servidores GNU/Linux**.
 - Participé en el **Macroentrenamiento en Inteligencia Artificial (MeIA) 2025**.
 - Actualmente curso el diplomado de **Manejo de Bases de Datos SQL y NoSQL en un Entorno de Nube**.
-- Actualmente curso el diplomado de **Administración de Servidores GNU/Linux**.
+
 
 ---
 
