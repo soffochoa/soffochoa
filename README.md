@@ -13,7 +13,7 @@
 - Estudio **Ciencias de la Computación**.
 - Diplomado en **Introducción Analítica a las Ciencias de Datos**.
 - Diplomado en **Administración de Servidores GNU/Linux**.
-- Diplomado de **Manejo de Bases de Datos SQL y NoSQL en un Entorno de Nube**.
+- Diplomado en **Manejo de Bases de Datos SQL y NoSQL en un Entorno de Nube**.
 - Participé en el **Macroentrenamiento en Inteligencia Artificial (MeIA) 2025**.
 - Actualmente curso el diplomado de **Diseño y Administración de Bases de Datos**.
 
