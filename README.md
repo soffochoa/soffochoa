@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://usagif.com/wp-content/uploads/gify/cinnamoroll-playing-bouncing-on-cloud-usagif.gif" width="180" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1c3469&size=30&width=900&lines=Hola!+Soy+Sofía;Estudiante+de+Ciencias+de+la+Computación)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1c3469&size=30&width=900&lines=¡Hola!+Soy+Sofía;Estudiante+de+Ciencias+de+la+Computación)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=header" width="100%" />
 
